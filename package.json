@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^5.0.2",
+    "chai": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.3",
+    "hardhat": "^2.22.12"
+  }
+}
